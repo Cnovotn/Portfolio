@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.fbbc5980.chunk.css",
+    "main.js": "/Portfolio/static/js/main.fa711036.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.fa711036.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.cfeecd6c.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.cfeecd6c.js.map",
+    "static/js/2.e60af01e.chunk.js": "/Portfolio/static/js/2.e60af01e.chunk.js",
+    "static/js/2.e60af01e.chunk.js.map": "/Portfolio/static/js/2.e60af01e.chunk.js.map",
+    "static/js/3.caed2c3d.chunk.js": "/Portfolio/static/js/3.caed2c3d.chunk.js",
+    "static/js/3.caed2c3d.chunk.js.map": "/Portfolio/static/js/3.caed2c3d.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.fbbc5980.chunk.css.map": "/Portfolio/static/css/main.fbbc5980.chunk.css.map",
+    "static/js/2.e60af01e.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.e60af01e.chunk.js.LICENSE.txt",
+    "static/media/ClayProfilePic.f4da852a.JPG": "/Portfolio/static/media/ClayProfilePic.f4da852a.JPG",
+    "static/media/main.css": "/Portfolio/static/media/SkiPatrolBackground.b98466eb.png",
+    "static/media/style.css": "/Portfolio/static/media/SkiingBackground.3af4c716.jpeg",
+    "static/media/logo.6ce24c58.svg": "/Portfolio/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfeecd6c.js",
+    "static/js/2.e60af01e.chunk.js",
+    "static/css/main.fbbc5980.chunk.css",
+    "static/js/main.fa711036.chunk.js"
+  ]
+}
