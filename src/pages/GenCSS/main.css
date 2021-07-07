@@ -43,7 +43,8 @@ body{
 
 .page-container{
     width: 80%;
-    margin: 5% 10% 0% 10%;
+    margin-left: 5%;
+    margin-top: 5%;
     /* background: #595959; */
 }
 

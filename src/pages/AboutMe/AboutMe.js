@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import './style.css'
 import "../GenCSS/main.css"
 
-
+import Navbar from '../../Navbar/Navbar'
 export default class AboutMe extends Component {
     static propTypes = {
 
@@ -53,6 +53,7 @@ export default class AboutMe extends Component {
         ]
         return (
             <div>
+                <Navbar/>
                 <main className="page-container">
                     <div className="flex-row">
                         <div id="about-left-side" className="centered">
